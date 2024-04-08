@@ -1,3 +1,5 @@
+package Carro;
+
 import Carro.Carro;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -12,8 +14,8 @@ public class Main {
         carro.virarParaDireita();
         System.out.println(carro.toString());
 
-        System.out.println("\n");]
-        
+        System.out.println("\n");
+
         carro.desacelerar();
         carro.virarParaEsquerda();
         carro.diminuirMarcha();
