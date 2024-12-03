@@ -14,7 +14,6 @@ public class exer7 {
         System.out.println("Digite seu peso: ");
         peso = sc.nextDouble();
 
-
         double imc = peso/Math.pow(altura, 2);
         System.out.println("Seu Índice de Massa corporal é de: " + String.format("%.2f", imc));
 

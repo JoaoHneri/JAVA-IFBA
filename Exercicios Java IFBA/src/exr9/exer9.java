@@ -25,7 +25,6 @@ public class exer9 {
         salarioBruto = valorHoraAula * horasTrabalhadasMes;
 
         salarioLiquido = salarioBruto - (salarioBruto * (percentDesconto / 100));
-
         System.out.println("O salário bruto desse professor é de: R$" + String.format("%.2f", salarioBruto) +
                 ", mas com o abatimento do INSS, seu salario liquido é de: R$" + String.format("%.2f", salarioLiquido));
 

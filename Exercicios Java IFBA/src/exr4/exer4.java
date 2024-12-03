@@ -13,7 +13,6 @@ public class exer4 {
         }else {
             System.out.println("Sua temperatura está comum, mas cuide e fique alerta, caso suba faça o teste novamente, ou vá a um médico!");
         }
-
         sc.close();
 
     }

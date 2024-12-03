@@ -19,7 +19,6 @@ public class exer2 {
         precoGaso = quantidadeGasolina * precoLitro;
         System.out.println("A quantidade de gasolina que você gastará nesse trajeto é de: " + quantidadeGasolina + "\n" +
                 " E o preço que você gastará em gasolina nesse trajeto é de: " + precoGaso);
-
         sc.close();
 
     }

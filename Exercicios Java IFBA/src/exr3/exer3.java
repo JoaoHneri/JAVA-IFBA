@@ -15,7 +15,6 @@ public class exer3 {
             System.out.println("Desculpe, você ainda não está na idade de tirar a sua CNH, falta apenas: " + (18 - idade) + " anos para você estar apto!" );
 
         }
-
         sc.close();
 
     }

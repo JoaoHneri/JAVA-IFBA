@@ -10,6 +10,7 @@ public class exer8 {
         double pi = 3.14;
         double area = pi * Math.pow(raio, 2);
         System.out.println("A área da circunferência é: " + area);
+        
         scanner.close();
     }
 }

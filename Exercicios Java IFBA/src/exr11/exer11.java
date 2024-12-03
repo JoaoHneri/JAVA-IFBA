@@ -25,7 +25,6 @@ public class exer11 {
         }
 
         System.out.println("O resultado é: " + soma);
-
         scanner.close();
     }
 }

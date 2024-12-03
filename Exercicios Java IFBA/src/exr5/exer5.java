@@ -20,7 +20,6 @@ public class exer5 {
         } else if (numUser1 == numUser2) {
             System.out.println("Os números são iguais");
         }
-
         sc.close();
 
     }

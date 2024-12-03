@@ -24,7 +24,6 @@ public class exer10 {
             System.out.println("Resultado da soma: " + soma);
             System.out.println("A soma dos valores não é maior que 10.");
         }
-
         scanner.close();
     }
 }

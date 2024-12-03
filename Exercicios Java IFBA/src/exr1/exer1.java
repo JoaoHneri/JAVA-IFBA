@@ -11,6 +11,7 @@ public class exer1 {
         horasTrabalhadas = sc.nextInt();
         double salario = horasTrabalhadas * vPorHora;
         System.out.println("O salário desse operário é de: " + salario + "Reais");
+        
         sc.close();
     }
 }

@@ -14,7 +14,6 @@ public class exer6 {
         nota1 = sc.nextDouble();
         System.out.println("Digite o valor da nota da segunda avaliação: ");
         nota2 = sc.nextDouble();
-
         media = (nota1+nota2)/2;
 
         System.out.println("Sua média é: " + media + " e você foi: ");
