@@ -5,7 +5,6 @@ public class Calculo {
 	private float totalSalario;
 
 	public Calculo(float totalSalario) {
-		super();
 		this.totalSalario = totalSalario;
 	}
 
