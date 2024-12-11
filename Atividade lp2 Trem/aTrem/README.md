@@ -18,5 +18,4 @@ As linhas 7 e 8 são permitidas porque os atributos `numRG` e `cpf` foram declar
 
 ## c) Nas linhas 9 e 10, acessamos os atributos salário e matrícula do funcionário. Essa construção implementada nas linhas 9 e 10 é permitida pelo objeto funcionário? Justifique a sua resposta.
 
-Sim, a construção nas linhas 9 e 10 é permitida, mas de formas diferentes:
-- **Linha 9 e 10**: O atributo `salario` e O atributo `matricula` é declarado default, o que permite sua modificação direta.
+- **Linha 9 e 10**: Sim, a construção nas linhas 9 e 10 é permitida, o atributo `salario` e O atributo `matricula` é declarado default, o que permite sua modificação direta.
